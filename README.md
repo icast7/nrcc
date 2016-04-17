@@ -17,12 +17,14 @@ The output from the client shows the first 3 responses are received within milli
 ```
 
 ## Requirements
-Mac OSX 10.0+
-Java 1.7 SDK
-Maven 3.1+
+
+- Mac OSX 10.0+
+- Java 1.7 SDK
+- Maven 3.1+
 
 ## Build & Run
 To run the project:
+
 1. Go to the folder where the project resides
 2. Run ```mvn package```
 3. Run ```./run.sh``` bash script
