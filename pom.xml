@@ -8,7 +8,7 @@
     <artifactId>nrcc</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <!-- Make sure this is compiled with Java 1.7 -->
+    <!-- Force to compile with Java 1.7 -->
     <build>
         <plugins>
             <plugin>
